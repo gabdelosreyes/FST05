@@ -11,8 +11,9 @@ git log --oneline - check recent commited logs in one line
 git config user.name "username" - configure username
 git config user.email "email" - configure email
 git config user.* - check *username or *email
+git commit --amend -m "changed description" - rename the recent committed repository
 
 Legends
-U - Untracked
+U - Untracmked
 A - Added
 M - Modified
