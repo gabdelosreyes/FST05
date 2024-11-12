@@ -1,0 +1,3 @@
+git init - Initialize a repository
+git --version - check ver of git
+git status - check status of Git

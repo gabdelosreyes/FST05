@@ -1,0 +1,14 @@
+mkdir “folder_name” - create folder
+
+rmdir folder_name - delete folder
+
+pwd - show current directory
+
+ls - show all current directories
+cd folder_name - change directory
+
+cd .. - redirect back to the previous directory
+
+touch file_name.extension - create a file
+
+rm file_name - remove file
