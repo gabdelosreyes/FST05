@@ -1,3 +1,15 @@
 git init - Initialize a repository
 git --version - check ver of git
 git status - check status of Git
+git add . - stage all of the files/directories
+git add file_name/foldername - stage specific file/directory
+git commit -m "description" - commit files into repository
+git log - check the recent commit logs
+git config user.name "username" - configure username
+git config user.email "email" - configure email
+git config user.* - check *username or *email
+
+Legends
+U - Untracked
+A - Added
+M - Modified
