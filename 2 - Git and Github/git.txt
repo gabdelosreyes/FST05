@@ -23,6 +23,6 @@ git push - push to github
 
 
 Legends
-U - Untracmked
+U - Untracked
 A - Added
 M - Modified
