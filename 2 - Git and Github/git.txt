@@ -19,6 +19,9 @@ git checkout branch_name - switch to different branch
 git merge branch_name - merge the branch to the master (ensure that you're currently in the master)
 git branch -d extra - delete branches
 
+git push - push to github
+
+
 Legends
 U - Untracmked
 A - Added
