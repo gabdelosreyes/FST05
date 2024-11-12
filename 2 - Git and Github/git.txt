@@ -17,7 +17,7 @@ git branch branch_name - create a branch
 git branch -a - list all of branches
 git checkout branch_name - switch to different branch
 git merge branch_name - merge the branch to the master (ensure that you're currently in the master)
-git branch -d extra - delete branches
+git branch -d branch_name - delete branches
 
 git push - push to github
 
