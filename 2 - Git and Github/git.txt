@@ -13,6 +13,10 @@ git config user.email "email" - configure email
 git config user.* - check *username or *email
 git commit --amend -m "changed description" - rename the recent committed repository
 
+git branch extra - create a branch
+git branch -a - list all of branches
+git checkout extra - switch to different branch
+
 Legends
 U - Untracmked
 A - Added
